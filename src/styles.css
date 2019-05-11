@@ -1,0 +1,109 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+ border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150;
+  color: black;
+  text-align: center;
+
+}
+
+
+p {
+  color: #FFF; 
+  border: 0px;
+  border-radius: 0px;
+  padding: 55px;
+  width: 59;
+  position: absolute;
+  transform: translateX(5%);
+  text-align: center;
+  letter-spacing: 9px;
+}
+p2 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150;
+  color: black;
+  text-align: center;
+
+}
+
+li{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150;
+  background-color: white;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 800px;
+
+}
+
+h1::first-letter{
+  font-size: 2rem;
+  
+}
+
+p::first-letter{
+  font-size: 2rem;
+  text-align:content;
+
+    
+   
+}
+
+p2  {
+  background-color: white;
+  border-width: 0 0 0 5px;
+  border-color: #f69d3c;
+  background-color: #ffe8d4;
+  padding: 0px;
+  border-left: 
+  
+}
+
+h1 {
+  
+ 
+
+}
+.content p::beore{
+  content: "33";
+  height:45px;
+  width: 4px;
+  background: red;
+  float:left; 
+}
+button {
+  font-size:20px
+  border: 20px solid #ddd;
+  border-radius: 20px;
+  margin: 20px;
+  width: 200px;
+  height: 40px;
+background: rgba(23,197,203,1);
+color: #fff;
+font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
